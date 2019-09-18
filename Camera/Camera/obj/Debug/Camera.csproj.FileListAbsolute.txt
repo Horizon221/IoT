@@ -1,0 +1,16 @@
+F:\IoT\Code\Camera\Camera\obj\Debug\Camera.csprojAssemblyReference.cache
+F:\IoT\Code\Camera\Camera\obj\Debug\MainWindow.g.cs
+F:\IoT\Code\Camera\Camera\obj\Debug\App.g.cs
+F:\IoT\Code\Camera\Camera\obj\Debug\Camera_MarkupCompile.cache
+F:\IoT\Code\Camera\Camera\obj\Debug\Camera_MarkupCompile.lref
+F:\IoT\Code\Camera\Camera\bin\Debug\Camera.exe.config
+F:\IoT\Code\Camera\Camera\bin\Debug\Camera.exe
+F:\IoT\Code\Camera\Camera\bin\Debug\Camera.pdb
+F:\IoT\Code\Camera\Camera\obj\Debug\MainWindow.baml
+F:\IoT\Code\Camera\Camera\obj\Debug\Camera.g.resources
+F:\IoT\Code\Camera\Camera\obj\Debug\Camera.Properties.Resources.resources
+F:\IoT\Code\Camera\Camera\obj\Debug\Camera.csproj.GenerateResource.cache
+F:\IoT\Code\Camera\Camera\obj\Debug\Camera.csproj.CoreCompileInputs.cache
+F:\IoT\Code\Camera\Camera\obj\Debug\Camera.csproj.CopyComplete
+F:\IoT\Code\Camera\Camera\obj\Debug\Camera.exe
+F:\IoT\Code\Camera\Camera\obj\Debug\Camera.pdb
