@@ -1,0 +1,16 @@
+C:\Users\39101\Desktop\LowFreq\LowFreq\bin\Debug\LowFreq.exe.config
+C:\Users\39101\Desktop\LowFreq\LowFreq\bin\Debug\LowFreq.exe
+C:\Users\39101\Desktop\LowFreq\LowFreq\bin\Debug\LowFreq.pdb
+C:\Users\39101\Desktop\LowFreq\LowFreq\obj\Debug\LowFreq.csprojAssemblyReference.cache
+C:\Users\39101\Desktop\LowFreq\LowFreq\obj\Debug\MainWindow.g.cs
+C:\Users\39101\Desktop\LowFreq\LowFreq\obj\Debug\App.g.cs
+C:\Users\39101\Desktop\LowFreq\LowFreq\obj\Debug\LowFreq_MarkupCompile.cache
+C:\Users\39101\Desktop\LowFreq\LowFreq\obj\Debug\LowFreq_MarkupCompile.lref
+C:\Users\39101\Desktop\LowFreq\LowFreq\obj\Debug\MainWindow.baml
+C:\Users\39101\Desktop\LowFreq\LowFreq\obj\Debug\LowFreq.g.resources
+C:\Users\39101\Desktop\LowFreq\LowFreq\obj\Debug\LowFreq.Properties.Resources.resources
+C:\Users\39101\Desktop\LowFreq\LowFreq\obj\Debug\LowFreq.csproj.GenerateResource.cache
+C:\Users\39101\Desktop\LowFreq\LowFreq\obj\Debug\LowFreq.csproj.CoreCompileInputs.cache
+C:\Users\39101\Desktop\LowFreq\LowFreq\obj\Debug\LowFreq.csproj.CopyComplete
+C:\Users\39101\Desktop\LowFreq\LowFreq\obj\Debug\LowFreq.exe
+C:\Users\39101\Desktop\LowFreq\LowFreq\obj\Debug\LowFreq.pdb
