@@ -1,0 +1,16 @@
+C:\Users\39101\Desktop\新建文件夹 (3)\MRHelper\MRHelper\bin\Debug\MRHelper.exe.config
+C:\Users\39101\Desktop\新建文件夹 (3)\MRHelper\MRHelper\bin\Debug\MRHelper.exe
+C:\Users\39101\Desktop\新建文件夹 (3)\MRHelper\MRHelper\bin\Debug\MRHelper.pdb
+C:\Users\39101\Desktop\新建文件夹 (3)\MRHelper\MRHelper\obj\Debug\MRHelper.csprojAssemblyReference.cache
+C:\Users\39101\Desktop\新建文件夹 (3)\MRHelper\MRHelper\obj\Debug\MainWindow.g.cs
+C:\Users\39101\Desktop\新建文件夹 (3)\MRHelper\MRHelper\obj\Debug\App.g.cs
+C:\Users\39101\Desktop\新建文件夹 (3)\MRHelper\MRHelper\obj\Debug\MRHelper_MarkupCompile.cache
+C:\Users\39101\Desktop\新建文件夹 (3)\MRHelper\MRHelper\obj\Debug\MRHelper_MarkupCompile.lref
+C:\Users\39101\Desktop\新建文件夹 (3)\MRHelper\MRHelper\obj\Debug\MainWindow.baml
+C:\Users\39101\Desktop\新建文件夹 (3)\MRHelper\MRHelper\obj\Debug\MRHelper.g.resources
+C:\Users\39101\Desktop\新建文件夹 (3)\MRHelper\MRHelper\obj\Debug\MRHelper.Properties.Resources.resources
+C:\Users\39101\Desktop\新建文件夹 (3)\MRHelper\MRHelper\obj\Debug\MRHelper.csproj.GenerateResource.cache
+C:\Users\39101\Desktop\新建文件夹 (3)\MRHelper\MRHelper\obj\Debug\MRHelper.csproj.CoreCompileInputs.cache
+C:\Users\39101\Desktop\新建文件夹 (3)\MRHelper\MRHelper\obj\Debug\MRHelper.csproj.CopyComplete
+C:\Users\39101\Desktop\新建文件夹 (3)\MRHelper\MRHelper\obj\Debug\MRHelper.exe
+C:\Users\39101\Desktop\新建文件夹 (3)\MRHelper\MRHelper\obj\Debug\MRHelper.pdb

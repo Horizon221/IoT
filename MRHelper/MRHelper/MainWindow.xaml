@@ -1,0 +1,18 @@
+﻿<Window x:Class="MRHelper.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MRHelper"
+        mc:Ignorable="d"
+        Title="WMRHelper" Height="450" Width="662.976">
+    <Grid>
+        <Button x:Name="button" Content="Open" HorizontalAlignment="Left" Margin="69,70,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Button x:Name="button1" Content="Card search" HorizontalAlignment="Left" Margin="69,128,0,0" VerticalAlignment="Top" Width="75" Click="Button1_Click"/>
+        <Button x:Name="button2" Content="Write" HorizontalAlignment="Left" Margin="69,192,0,0" VerticalAlignment="Top" Width="75" Click="Button2_Click"/>
+        <Button x:Name="button3" Content="Read" HorizontalAlignment="Left" Margin="69,253,0,0" VerticalAlignment="Top" Width="75" Click="Button3_Click"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="399" Margin="196,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="419"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="23" Margin="44,354,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Text="10000"/>
+        <Label x:Name="label" Content="Write Int：" HorizontalAlignment="Left" Margin="69,327,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>
